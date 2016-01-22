@@ -1,0 +1,7 @@
+D:\Doc\Temp\TetsLog4net\DataAccess\bin\Debug\DataAccess.dll
+D:\Doc\Temp\TetsLog4net\DataAccess\bin\Debug\DataAccess.pdb
+D:\Doc\Temp\TetsLog4net\DataAccess\bin\Debug\log4net.dll
+D:\Doc\Temp\TetsLog4net\DataAccess\bin\Debug\log4net.xml
+D:\Doc\Temp\TetsLog4net\DataAccess\obj\Debug\DataAccess.dll
+D:\Doc\Temp\TetsLog4net\DataAccess\obj\Debug\DataAccess.pdb
+D:\Doc\Temp\TetsLog4net\DataAccess\bin\Debug\DataAccess.dll.config
